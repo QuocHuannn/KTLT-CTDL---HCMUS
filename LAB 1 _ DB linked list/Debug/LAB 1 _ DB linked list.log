@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 1 _ DB linked list\Source.cpp(75): warning C4715: 'addTail': not all control paths return a value
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 1 _ DB linked list\Source.cpp(57): warning C4715: 'addHead': not all control paths return a value
+  LAB 1 _ DB linked list.vcxproj -> C:\Users\hoang\source\repos\LAB_CTDL_GT\Debug\LAB 1 _ DB linked list.exe

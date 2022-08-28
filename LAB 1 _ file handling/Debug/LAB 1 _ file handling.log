@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 1 _ file handling\Source.cpp(203,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 1 _ file handling\Source.cpp(217,20): warning C4018: '<': signed/unsigned mismatch
+  LAB 1 _ file handling.vcxproj -> C:\Users\hoang\source\repos\LAB_CTDL_GT\Debug\LAB 1 _ file handling.exe

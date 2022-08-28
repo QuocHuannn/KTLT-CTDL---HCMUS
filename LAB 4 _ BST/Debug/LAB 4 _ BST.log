@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 4 _ BST\Source.cpp(128): warning C4715: 'Search': not all control paths return a value
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 4 _ BST\Source.cpp(194): warning C4715: 'heightNode': not all control paths return a value
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 4 _ BST\Source.cpp(213): warning C4715: 'Level': not all control paths return a value
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 4 _ BST\Source.cpp(235): warning C4715: 'countLess': not all control paths return a value
+C:\Users\hoang\source\repos\LAB_CTDL_GT\LAB 4 _ BST\Source.cpp(247): warning C4715: 'countGreater': not all control paths return a value
+  LAB 4 _ BST.vcxproj -> C:\Users\hoang\source\repos\LAB_CTDL_GT\Debug\LAB 4 _ BST.exe
