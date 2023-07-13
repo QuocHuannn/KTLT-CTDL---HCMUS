@@ -32,7 +32,7 @@ vector<Company> ReadCompanyList(string file_name) {
 
 }
 
-string splitSring(string s) {
+string splitString(string s) {
 	string temp = "";
 	if (s.size() <= 20) {
 		return s;
@@ -58,7 +58,7 @@ long long hashCalculate(int i, long long m) {
 }
 
 long long HashString(string company_name) {
-	string s = splitSring(company_name);
+	string s = splitString(company_name);
 	long long m = pow(10, 9) + 9;
 	long long hashKey = 0;
 	for (int i = 0; i < s.length(); i++) {
@@ -139,7 +139,7 @@ int main() {
 
 	
 
-	Company inf = { "CONG TY TNHH NGUYEN HUY HOANG", "20127168", "Khu pho 4, Thi Tran Thuong Xuan, Huyen Thuong Xuan, Tinh Thanh Hoa" };
+	Company inf = { "CTY VNU ", "20127172", " 227 Đ. Nguyen Van Cu, Phuong 4, Quan 5, TP.HCM" };
 	Insert(table, inf);
 	cout << HashString(inf.name) % 2000 << endl;
 	for (int i = 0; i < 2000; i++) {
